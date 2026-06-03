@@ -1,0 +1,1 @@
+bibliotecas: numpy, matplotlib, seaborn, tracemalloc, scipy
